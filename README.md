@@ -1,3 +1,4 @@
+Dataset Link: https://www.kaggle.com/code/suhanshubhattacharya/eda-datacleaning-on-credit-card-classification
 # **Project Name**    -The goal of this project is to understand which financial, behavioral, and demographic factors influence a customer’s credit score. Using the dataset provided, the project aims to identify relationships between income, credit utilization, delayed payments, number of loans, and overall credit health.
 <img width="626" height="393" alt="image" src="https://github.com/user-attachments/assets/66517c4d-3024-4b06-9a29-b734ce8d722e" />
 <img width="626" height="393" alt="image" src="https://github.com/user-attachments/assets/3253e83f-45c4-45e0-87c3-d5b0d7573e29" />
